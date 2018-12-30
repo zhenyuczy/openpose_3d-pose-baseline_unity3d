@@ -2,6 +2,10 @@
 
 ## Display
 
+### source video
+
+![image](demo_display/video.gif)
+
 ### online display video
 
 ![image](demo_display/display_realtime.gif) 
