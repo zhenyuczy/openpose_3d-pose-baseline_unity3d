@@ -1,3 +1,11 @@
+# 说明
+repo没有给大家提供足够有用的信息，我对此感到很抱歉。这是我在2018年10月份一时兴起（hhh很怀念）做的一个demo，上传到github主要是为了留档，所以没有整理出完整的代码，而在18年之后我就不再做这个方向了，后续的工作都交给了一个师妹。我看已经有一些比较完整的repo了，有兴趣可以参考一下~
+
+https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin
+https://github.com/Jacob12138xieyuan/real-time-3d-pose-estimation-with-Unity3D
+
+
+
 # OpenPose + 3dPoseBaseline + Unity3d
 
 ## Display
